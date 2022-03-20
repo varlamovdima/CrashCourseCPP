@@ -12,3 +12,14 @@ int main(int argc, char* argv[]){
 	std::cout<<"Hello, "<<name<<"!"<<std::endl;
 	return 0;
 }
+
+
+// Compilation commands
+// Precompilation, substitute marcos by a spesific value
+// g++ -E file.cpp 
+// Generation of an object file
+// g++ -c test.cpp
+// View object file
+// objdump -d test.o>test.asm
+// Complete compilation 
+// g++ -o test test.cpp
