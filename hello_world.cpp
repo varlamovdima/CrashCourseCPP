@@ -1,6 +1,5 @@
 // This program prints "Hello, entered name!".
 // If a name is not provided, the program prints "Hello, world!"
-// By: Dmitrii Varlamov
 #include <iostream>
 #include <string>
 int main(int argc, char* argv[]){
